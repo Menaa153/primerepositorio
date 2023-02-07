@@ -1,2 +1,2 @@
-# primerepositorio
-este es mi primer repositorio
+# Investigación de operaciones 1
+## Segunda clase
